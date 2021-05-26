@@ -1,0 +1,19 @@
+#apkbtn{
+    float: right;
+}
+
+.container{
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card-img-top{
+padding: 6%;}
+
+.card-body{
+    margin: 10px;
+}
+
+.btn{
+    background: red;
+}
